@@ -1,0 +1,45 @@
+<?php
+print_r($_POST);
+		$_POST['asset_tagging'];
+		$_POST['asset_tagging_unit'];
+		$_POST['bios_update'];
+		$_POST['asset_device_description'];
+		$_POST['asset_timmingForConfig'];
+		$_POST['assset_uer_specific'];
+		$_POST['imaging'];
+		$_POST['tag_creation_printing'];
+		$_POST['tailored_individual_user'];
+		$_POST['refurbishment_desktop'];
+		$_POST['metro_locations'];
+		$_POST['regional_locations'];
+		$_POST['remote_locations'];
+		$_POST['post_technical_support'];
+		$_POST['hardware_device_description'];
+		$_POST['hardware_timmingForConfig'];
+		$_POST['user_specific_asset'];
+		$_POST['pilot_site'];
+		$_POST['configuration'];
+		$_POST['network_configuralation'];
+		$_POST['data_transfer'];
+		$_POST['setup_type'];
+		$_POST['adhoc_development'];
+		$_POST['estimated_down_type'];
+		$_POST['spares_provided'];
+		$_POST['individual_staff'];
+		$_POST['hordware_upgrade'];
+		$_POST['handling_charge'];
+		$_POST['handling_unit'];
+		$_POST['warehouse_storage'];
+		$_POST['test_tags'];
+		$_POST['secuue_hard_disk_wipe'];
+		$_POST['physical_disk_destruction'];
+		$_POST['environmental_device'];
+		$_POST['ethernet_switch'];
+		$_POST['onsite_development_services'];
+		$_POST['confirmations_deployment'];
+		$_POST['delivery_to_desk_courier'];
+		$_POST['disco_ip_onsite_installation'];
+		$_POST['mounted_monitor_installation'];
+		$_POST['desk_additional_software'];
+
+?>
